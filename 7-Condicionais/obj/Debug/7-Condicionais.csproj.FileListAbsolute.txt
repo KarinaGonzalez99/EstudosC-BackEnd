@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\7-Condicionais\bin\Debug\7-Condicionais.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\7-Condicionais\bin\Debug\7-Condicionais.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\7-Condicionais\obj\Debug\7-Condicionais.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\7-Condicionais\obj\Debug\7-Condicionais.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\7-Condicionais\obj\Debug\7-Condicionais.pdb

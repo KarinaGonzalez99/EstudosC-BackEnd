@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\10-Switch\bin\Debug\10-Switch.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\10-Switch\bin\Debug\10-Switch.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\10-Switch\bin\Debug\10-Switch.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\10-Switch\obj\Debug\10-Switch.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\10-Switch\obj\Debug\10-Switch.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\10-Switch\obj\Debug\10-Switch.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\10-Switch\obj\Debug\10-Switch.pdb

@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\11-CalculaPoupanca\bin\Debug\11-CalculaPoupanca.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\11-CalculaPoupanca\bin\Debug\11-CalculaPoupanca.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\11-CalculaPoupanca\bin\Debug\11-CalculaPoupanca.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\11-CalculaPoupanca\obj\Debug\11-CalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\11-CalculaPoupanca\obj\Debug\11-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\11-CalculaPoupanca\obj\Debug\11-CalculaPoupanca.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\11-CalculaPoupanca\obj\Debug\11-CalculaPoupanca.pdb
