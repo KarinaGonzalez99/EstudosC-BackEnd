@@ -11,4 +11,6 @@ Estou aprendendo com base na trilha de Back-end Junior desenvolvida pela parceri
 ## 🚀 Como Contribuir
 Se você encontrar algum problema ou tiver alguma sugestão para melhorar meu código ou minha compreensão de C#, sinta-se à vontade para abrir uma issue neste repositório.
 
-https://camo.githubusercontent.com/79b4015d91ad35829235c4dd4c0f300ae9a850a495ead3122f765d4a52f48bda/68747470733a2f2f6d656469612e74656e6f722e636f6d2f39582d49306d63635f4f6741414141432f646f672d66756e6e792e676966
+<p align="center">
+  <img src="https://camo.githubusercontent.com/79b4015d91ad35829235c4dd4c0f300ae9a850a495ead3122f765d4a52f48bda/68747470733a2f2f6d656469612e74656e6f722e636f6d2f39582d49306d63635f4f6741414141432f646f672d66756e6e792e676966" width="400" />
+</p>
