@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/KarinaGonzalezWM/BackEndJuniorWM/assets/167347436/e30ffa79-2b2f-4c2e-9532-5f422b76d539)<p align="center">
 <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+reposit%C3%B3rio!&color=9370DB" width="800" />
 </p>
 
@@ -10,3 +10,5 @@ Estou aprendendo com base na trilha de Back-end Junior desenvolvida pela parceri
 
 ## 🚀 Como Contribuir
 Se você encontrar algum problema ou tiver alguma sugestão para melhorar meu código ou minha compreensão de C#, sinta-se à vontade para abrir uma issue neste repositório.
+
+https://camo.githubusercontent.com/79b4015d91ad35829235c4dd4c0f300ae9a850a495ead3122f765d4a52f48bda/68747470733a2f2f6d656469612e74656e6f722e636f6d2f39582d49306d63635f4f6741414141432f646f672d66756e6e792e676966
