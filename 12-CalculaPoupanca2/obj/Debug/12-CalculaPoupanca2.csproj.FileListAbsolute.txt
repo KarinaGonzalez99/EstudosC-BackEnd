@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\12-CalculaPoupanca2\bin\Debug\12-CalculaPoupanca2.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\12-CalculaPoupanca2\bin\Debug\12-CalculaPoupanca2.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\12-CalculaPoupanca2\bin\Debug\12-CalculaPoupanca2.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\12-CalculaPoupanca2\obj\Debug\12-CalculaPoupanca2.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\12-CalculaPoupanca2\obj\Debug\12-CalculaPoupanca2.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\12-CalculaPoupanca2\obj\Debug\12-CalculaPoupanca2.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\12-CalculaPoupanca2\obj\Debug\12-CalculaPoupanca2.pdb

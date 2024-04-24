@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\8_Condicionais2\bin\Debug\8_Condicionais2.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\8_Condicionais2\bin\Debug\8_Condicionais2.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\8_Condicionais2\bin\Debug\8_Condicionais2.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\8_Condicionais2\obj\Debug\8_Condicionais2.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\8_Condicionais2\obj\Debug\8_Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\8_Condicionais2\obj\Debug\8_Condicionais2.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\8_Condicionais2\obj\Debug\8_Condicionais2.pdb

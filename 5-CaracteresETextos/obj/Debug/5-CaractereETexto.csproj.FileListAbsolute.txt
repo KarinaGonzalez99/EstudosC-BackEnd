@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\5-CaracteresETextos\bin\Debug\5-CaractereETexto.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\5-CaracteresETextos\bin\Debug\5-CaractereETexto.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\5-CaracteresETextos\bin\Debug\5-CaractereETexto.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\5-CaracteresETextos\obj\Debug\5-CaractereETexto.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\5-CaracteresETextos\obj\Debug\5-CaractereETexto.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\5-CaracteresETextos\obj\Debug\5-CaractereETexto.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\5-CaracteresETextos\obj\Debug\5-CaractereETexto.pdb

@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\13-CalculaInvestimentoLongoPrazo\bin\Debug\13-CalculaInvestimentoLongoPrazo.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\13-CalculaInvestimentoLongoPrazo\bin\Debug\13-CalculaInvestimentoLongoPrazo.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\13-CalculaInvestimentoLongoPrazo\bin\Debug\13-CalculaInvestimentoLongoPrazo.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\13-CalculaInvestimentoLongoPrazo\obj\Debug\13-CalculaInvestimentoLongoPrazo.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\13-CalculaInvestimentoLongoPrazo\obj\Debug\13-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\13-CalculaInvestimentoLongoPrazo\obj\Debug\13-CalculaInvestimentoLongoPrazo.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\13-CalculaInvestimentoLongoPrazo\obj\Debug\13-CalculaInvestimentoLongoPrazo.pdb
