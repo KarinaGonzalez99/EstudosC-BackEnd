@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+reposit%C3%B3rio+de+evolu%C3%A7%C3%A3o+em+C%23+!&color=9370DB" width="800" />
+<img align="center" src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+reposit%C3%B3rio+de+evolução%C3%A7%C3%A3o+em+C%23+!&color=9370DB" width="800" />
 </p>
 
 ## ℹ️ Sobre o Projeto
