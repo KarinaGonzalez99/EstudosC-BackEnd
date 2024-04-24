@@ -1,6 +1,5 @@
 <p align="center">
-<h1 align="center">Bem-vindo ao meu repositório!</h1>
-<img src="https://readme-typing-svg.demolab.com/?lines=&color=9370DB" width="800" />
+<img align="center" src="https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+reposit%C3%B3rio!&color=9370DB" width="800" />
 </p>
 
 ## ℹ️ Sobre o Projeto
