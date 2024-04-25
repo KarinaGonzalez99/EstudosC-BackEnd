@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2-CriandoVariaveis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91f0cfb9081a9587adc84a9b5fa217853a1611dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47438b08ce428e3a12b248da4c9d24fd42828e3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("2-CriandoVariaveis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2-CriandoVariaveis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
