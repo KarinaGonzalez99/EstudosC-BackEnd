@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# parte 4 - Entendendo exce\u00E7\u00F5es\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6B6F1B-947B-4B13-BE5A-0B666DB3A1C3}|03-ByteBank\\03-ByteBank.csproj|c:\\users\\karinagonzalez\\source\\repos\\backendjuniorwm\\c# parte 4 - entendendo exce\u00E7\u00F5es\\03-bytebank\\leitordearquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6B6F1B-947B-4B13-BE5A-0B666DB3A1C3}|03-ByteBank\\03-ByteBank.csproj|solutionrelative:03-bytebank\\leitordearquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6B6F1B-947B-4B13-BE5A-0B666DB3A1C3}|03-ByteBank\\03-ByteBank.csproj|c:\\users\\karinagonzalez\\source\\repos\\backendjuniorwm\\c# parte 4 - entendendo exce\u00E7\u00F5es\\03-bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6B6F1B-947B-4B13-BE5A-0B666DB3A1C3}|03-ByteBank\\03-ByteBank.csproj|solutionrelative:03-bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DBBC55-CBA5-4A39-B0F3-679AE43E5F77}|02-ByteBank\\02-ByteBank.csproj|c:\\users\\karinagonzalez\\source\\repos\\backendjuniorwm\\c# parte 4 - entendendo exce\u00E7\u00F5es\\02-bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DBBC55-CBA5-4A39-B0F3-679AE43E5F77}|02-ByteBank\\02-ByteBank.csproj|solutionrelative:02-bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KarinaGonzalez\\AppData\\Local\\Temp\\5e521373-bb0d-4ca5-ba44-f9b88ad7ae6b_csharpexceptions-aula3 (1).zip.e6b\\csharpexceptions-aula3\\ByteBank\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KarinaGonzalez\\AppData\\Local\\Temp\\903fe2f3-9f57-40bd-8382-fa7b889c500f_csharpexceptions-aula3 (1).zip.00f\\csharpexceptions-aula3\\ByteBank\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeitorDeArquivo.cs",
+              "DocumentMoniker": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# parte 4 - Entendendo exce\u00E7\u00F5es\\03-ByteBank\\LeitorDeArquivo.cs",
+              "RelativeDocumentMoniker": "03-ByteBank\\LeitorDeArquivo.cs",
+              "ToolTip": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# parte 4 - Entendendo exce\u00E7\u00F5es\\03-ByteBank\\LeitorDeArquivo.cs",
+              "RelativeToolTip": "03-ByteBank\\LeitorDeArquivo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:53:54.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# parte 4 - Entendendo exce\u00E7\u00F5es\\02-ByteBank\\Program.cs",
+              "RelativeDocumentMoniker": "02-ByteBank\\Program.cs",
+              "ToolTip": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# parte 4 - Entendendo exce\u00E7\u00F5es\\02-ByteBank\\Program.cs",
+              "RelativeToolTip": "02-ByteBank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:53:39.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# parte 4 - Entendendo exce\u00E7\u00F5es\\03-ByteBank\\Program.cs",
+              "RelativeDocumentMoniker": "03-ByteBank\\Program.cs",
+              "ToolTip": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# parte 4 - Entendendo exce\u00E7\u00F5es\\03-ByteBank\\Program.cs",
+              "RelativeToolTip": "03-ByteBank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:49:38.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9ea8a266-7203-4fbb-a739-d749e98232e4",
+        "Display": 0,
+        "X": 1,
+        "Y": 1,
+        "Width": 1364,
+        "Height": 718,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KarinaGonzalez\\AppData\\Local\\Temp\\903fe2f3-9f57-40bd-8382-fa7b889c500f_csharpexceptions-aula3 (1).zip.00f\\csharpexceptions-aula3\\ByteBank\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\903fe2f3-9f57-40bd-8382-fa7b889c500f_csharpexceptions-aula3 (1).zip.00f\\csharpexceptions-aula3\\ByteBank\\Program.cs",
+              "ToolTip": "C:\\Users\\KarinaGonzalez\\AppData\\Local\\Temp\\903fe2f3-9f57-40bd-8382-fa7b889c500f_csharpexceptions-aula3 (1).zip.00f\\csharpexceptions-aula3\\ByteBank\\Program.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\903fe2f3-9f57-40bd-8382-fa7b889c500f_csharpexceptions-aula3 (1).zip.00f\\csharpexceptions-aula3\\ByteBank\\Program.cs [Somente Leitura]",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:00:40.349Z",
+              "EditorCaption": " [Somente Leitura]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "31ac56ec-7209-4bd4-9045-6303883bcf99",
+        "Display": 0,
+        "X": 1,
+        "Y": 1,
+        "Width": 1364,
+        "Height": 718,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KarinaGonzalez\\AppData\\Local\\Temp\\5e521373-bb0d-4ca5-ba44-f9b88ad7ae6b_csharpexceptions-aula3 (1).zip.e6b\\csharpexceptions-aula3\\ByteBank\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\5e521373-bb0d-4ca5-ba44-f9b88ad7ae6b_csharpexceptions-aula3 (1).zip.e6b\\csharpexceptions-aula3\\ByteBank\\Program.cs",
+              "ToolTip": "C:\\Users\\KarinaGonzalez\\AppData\\Local\\Temp\\5e521373-bb0d-4ca5-ba44-f9b88ad7ae6b_csharpexceptions-aula3 (1).zip.e6b\\csharpexceptions-aula3\\ByteBank\\Program.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\5e521373-bb0d-4ca5-ba44-f9b88ad7ae6b_csharpexceptions-aula3 (1).zip.e6b\\csharpexceptions-aula3\\ByteBank\\Program.cs [Somente Leitura]",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:02:15.593Z",
+              "EditorCaption": " [Somente Leitura]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
