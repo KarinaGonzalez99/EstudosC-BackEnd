@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE498EC0-8106-47A5-AC26-5A0127A9602B}</ProjectGuid>
+    <ProjectGuid>{C5C57411-6C0F-481A-B1C6-0AEBFE5B7C88}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ByteBank.SistemaAgencia</RootNamespace>
     <AssemblyName>ByteBank.SistemaAgencia</AssemblyName>
@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ByteBank.Modelos">
-      <HintPath>..\..\C# parte 5 - bibl. DLL, Doc e NuGet\Bibliotecas\ByteBank.Modelos.dll</HintPath>
+    <Reference Include="ByteBank.Modelos, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\C# parte 5 - bibl. DLL, Doc e NuGet\Bibliotecas\ByteBank.Modelos.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,6 +47,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ListaDeContaCorrente.cs" />
+    <Compile Include="ListaDeObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

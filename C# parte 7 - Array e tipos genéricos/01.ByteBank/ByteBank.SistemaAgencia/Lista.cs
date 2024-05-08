@@ -5,9 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ByteBank.SistemaAgencia {
-	internal class Program {
-		static void Main(string[] args) {
-
-		}
+	internal class Lista {
 	}
 }
