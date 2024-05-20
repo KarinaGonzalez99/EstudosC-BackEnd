@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\02_SortedDictionary\bin\Debug\02_SortedDictionary.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\02_SortedDictionary\bin\Debug\02_SortedDictionary.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\02_SortedDictionary\bin\Debug\02_SortedDictionary.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\02_SortedDictionary\obj\Debug\02_SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\02_SortedDictionary\obj\Debug\02_SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\02_SortedDictionary\obj\Debug\02_SortedDictionary.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\02_SortedDictionary\obj\Debug\02_SortedDictionary.pdb

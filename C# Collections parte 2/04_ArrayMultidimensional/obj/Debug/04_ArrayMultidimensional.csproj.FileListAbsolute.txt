@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\04_ArrayMultidimensional\bin\Debug\04_ArrayMultidimensional.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\04_ArrayMultidimensional\bin\Debug\04_ArrayMultidimensional.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\04_ArrayMultidimensional\bin\Debug\04_ArrayMultidimensional.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\04_ArrayMultidimensional\obj\Debug\04_ArrayMultidimensional.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\04_ArrayMultidimensional\obj\Debug\04_ArrayMultidimensional.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\04_ArrayMultidimensional\obj\Debug\04_ArrayMultidimensional.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\04_ArrayMultidimensional\obj\Debug\04_ArrayMultidimensional.pdb

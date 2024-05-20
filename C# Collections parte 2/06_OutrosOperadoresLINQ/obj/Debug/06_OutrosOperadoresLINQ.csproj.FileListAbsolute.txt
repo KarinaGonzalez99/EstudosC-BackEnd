@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_OutrosOperadoresLINQ\bin\Debug\06_OutrosOperadoresLINQ.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_OutrosOperadoresLINQ\bin\Debug\06_OutrosOperadoresLINQ.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_OutrosOperadoresLINQ\bin\Debug\06_OutrosOperadoresLINQ.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_OutrosOperadoresLINQ\obj\Debug\06_OutrosOperadoresLINQ.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_OutrosOperadoresLINQ\obj\Debug\06_OutrosOperadoresLINQ.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_OutrosOperadoresLINQ\obj\Debug\06_OutrosOperadoresLINQ.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_OutrosOperadoresLINQ\obj\Debug\06_OutrosOperadoresLINQ.pdb
