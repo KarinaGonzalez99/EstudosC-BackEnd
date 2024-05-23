@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\01_CalculadoraDeImpostos\bin\Debug\01_CalculadoraDeImpostos.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\01_CalculadoraDeImpostos\bin\Debug\01_CalculadoraDeImpostos.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\01_CalculadoraDeImpostos\bin\Debug\01_CalculadoraDeImpostos.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\01_CalculadoraDeImpostos\obj\Debug\01_CalculadoraDeImpostos.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\01_CalculadoraDeImpostos\obj\Debug\01_CalculadoraDeImpostos.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\01_CalculadoraDeImpostos\obj\Debug\01_CalculadoraDeImpostos.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\01_CalculadoraDeImpostos\obj\Debug\01_CalculadoraDeImpostos.pdb
