@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 2\01_DesingPatterns2\obj\Debug\01_DesingPatterns2.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 2\01_DesingPatterns2\obj\Debug\01_DesingPatterns2.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 2\01_DesingPatterns2\bin\Debug\01_DesingPatterns2.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 2\01_DesingPatterns2\bin\Debug\01_DesingPatterns2.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 2\01_DesingPatterns2\bin\Debug\01_DesingPatterns2.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 2\01_DesingPatterns2\obj\Debug\01_DesingPatterns2.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 2\01_DesingPatterns2\obj\Debug\01_DesingPatterns2.pdb
