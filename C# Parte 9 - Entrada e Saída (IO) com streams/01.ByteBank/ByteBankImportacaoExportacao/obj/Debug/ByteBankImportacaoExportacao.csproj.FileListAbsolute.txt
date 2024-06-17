@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Parte 9 - Entrada e Saída (IO) com streams\01.ByteBank\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Parte 9 - Entrada e Saída (IO) com streams\01.ByteBank\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Parte 9 - Entrada e Saída (IO) com streams\01.ByteBank\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Parte 9 - Entrada e Saída (IO) com streams\01.ByteBank\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Parte 9 - Entrada e Saída (IO) com streams\01.ByteBank\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Parte 9 - Entrada e Saída (IO) com streams\01.ByteBank\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Parte 9 - Entrada e Saída (IO) com streams\01.ByteBank\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb

@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\01_SortedList\bin\Debug\01_SortedList.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\01_SortedList\bin\Debug\01_SortedList.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\01_SortedList\bin\Debug\01_SortedList.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\01_SortedList\obj\Debug\01_SortedList.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\01_SortedList\obj\Debug\01_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\01_SortedList\obj\Debug\01_SortedList.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\01_SortedList\obj\Debug\01_SortedList.pdb

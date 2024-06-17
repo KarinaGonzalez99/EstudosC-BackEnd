@@ -1,0 +1,10 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 6 - Strings, expressões regulares e a classe Object\01-ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 6 - Strings, expressões regulares e a classe Object\01-ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 6 - Strings, expressões regulares e a classe Object\01-ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 6 - Strings, expressões regulares e a classe Object\01-ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 6 - Strings, expressões regulares e a classe Object\01-ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 6 - Strings, expressões regulares e a classe Object\01-ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 6 - Strings, expressões regulares e a classe Object\01-ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 6 - Strings, expressões regulares e a classe Object\01-ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.808B372D.Up2Date
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 6 - Strings, expressões regulares e a classe Object\01-ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 6 - Strings, expressões regulares e a classe Object\01-ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb

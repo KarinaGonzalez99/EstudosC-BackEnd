@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\09_Covariancia\bin\Debug\09_Covariancia.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\09_Covariancia\bin\Debug\09_Covariancia.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\09_Covariancia\bin\Debug\09_Covariancia.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\09_Covariancia\obj\Debug\09_Covariancia.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\09_Covariancia\obj\Debug\09_Covariancia.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\09_Covariancia\obj\Debug\09_Covariancia.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\09_Covariancia\obj\Debug\09_Covariancia.pdb

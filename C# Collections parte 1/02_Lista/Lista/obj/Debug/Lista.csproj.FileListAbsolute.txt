@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\02_Lista\Lista\bin\Debug\Lista.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\02_Lista\Lista\bin\Debug\Lista.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\02_Lista\Lista\bin\Debug\Lista.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\02_Lista\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\02_Lista\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\02_Lista\Lista\obj\Debug\Lista.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\02_Lista\Lista\obj\Debug\Lista.pdb

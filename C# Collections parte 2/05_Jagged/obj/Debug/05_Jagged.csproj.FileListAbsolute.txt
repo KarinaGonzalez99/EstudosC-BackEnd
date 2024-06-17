@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\05_Jagged\bin\Debug\05_Jagged.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\05_Jagged\bin\Debug\05_Jagged.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\05_Jagged\bin\Debug\05_Jagged.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\05_Jagged\obj\Debug\05_Jagged.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\05_Jagged\obj\Debug\05_Jagged.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\05_Jagged\obj\Debug\05_Jagged.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\05_Jagged\obj\Debug\05_Jagged.pdb

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# Collections parte 1\\06_SetModelo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3A3ABC-DE08-4627-B42E-EFCFE1C1D752}|SetModelo\\SetModelo.csproj|c:\\users\\karinagonzalez\\source\\repos\\backendjuniorwm\\c# collections parte 1\\06_setmodelo\\setmodelo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3A3ABC-DE08-4627-B42E-EFCFE1C1D752}|SetModelo\\SetModelo.csproj|solutionrelative:setmodelo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3A3ABC-DE08-4627-B42E-EFCFE1C1D752}|SetModelo\\SetModelo.csproj|c:\\users\\karinagonzalez\\source\\repos\\backendjuniorwm\\c# collections parte 1\\06_setmodelo\\setmodelo\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3A3ABC-DE08-4627-B42E-EFCFE1C1D752}|SetModelo\\SetModelo.csproj|solutionrelative:setmodelo\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3A3ABC-DE08-4627-B42E-EFCFE1C1D752}|SetModelo\\SetModelo.csproj|c:\\users\\karinagonzalez\\source\\repos\\backendjuniorwm\\c# collections parte 1\\06_setmodelo\\setmodelo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3A3ABC-DE08-4627-B42E-EFCFE1C1D752}|SetModelo\\SetModelo.csproj|solutionrelative:setmodelo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# Collections parte 1\\06_SetModelo\\SetModelo\\Curso.cs",
+              "RelativeDocumentMoniker": "SetModelo\\Curso.cs",
+              "ToolTip": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# Collections parte 1\\06_SetModelo\\SetModelo\\Curso.cs",
+              "RelativeToolTip": "SetModelo\\Curso.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAD4v14AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:05:52.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# Collections parte 1\\06_SetModelo\\SetModelo\\Aluno.cs",
+              "RelativeDocumentMoniker": "SetModelo\\Aluno.cs",
+              "ToolTip": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# Collections parte 1\\06_SetModelo\\SetModelo\\Aluno.cs",
+              "RelativeToolTip": "SetModelo\\Aluno.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:03:16.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# Collections parte 1\\06_SetModelo\\SetModelo\\Program.cs",
+              "RelativeDocumentMoniker": "SetModelo\\Program.cs",
+              "ToolTip": "C:\\Users\\KarinaGonzalez\\source\\repos\\BackEndJuniorWM\\C# Collections parte 1\\06_SetModelo\\SetModelo\\Program.cs",
+              "RelativeToolTip": "SetModelo\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA4wEQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:59:40.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

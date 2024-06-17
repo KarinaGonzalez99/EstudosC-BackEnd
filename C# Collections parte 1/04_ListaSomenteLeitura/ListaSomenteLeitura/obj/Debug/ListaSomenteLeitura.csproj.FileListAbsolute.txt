@@ -1,0 +1,7 @@
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\04_ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\ListaSomenteLeitura.csproj.AssemblyReference.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\04_ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\ListaSomenteLeitura.csproj.CoreCompileInputs.cache
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\04_ListaSomenteLeitura\ListaSomenteLeitura\bin\Debug\ListaSomenteLeitura.exe.config
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\04_ListaSomenteLeitura\ListaSomenteLeitura\bin\Debug\ListaSomenteLeitura.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\04_ListaSomenteLeitura\ListaSomenteLeitura\bin\Debug\ListaSomenteLeitura.pdb
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\04_ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\ListaSomenteLeitura.exe
+C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\04_ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\ListaSomenteLeitura.pdb
