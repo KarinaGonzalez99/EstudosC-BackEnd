@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\03_ListaDeObjeto\ListaDeObjeto\bin\Debug\ListaDeObjeto.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\03_ListaDeObjeto\ListaDeObjeto\bin\Debug\ListaDeObjeto.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\03_ListaDeObjeto\ListaDeObjeto\bin\Debug\ListaDeObjeto.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\03_ListaDeObjeto\ListaDeObjeto\obj\Debug\ListaDeObjeto.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\03_ListaDeObjeto\ListaDeObjeto\obj\Debug\ListaDeObjeto.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\03_ListaDeObjeto\ListaDeObjeto\obj\Debug\ListaDeObjeto.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\03_ListaDeObjeto\ListaDeObjeto\obj\Debug\ListaDeObjeto.pdb

@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 3 - Heranca e Interface\02-ByteBank\bin\Debug\02-ByteBank.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 3 - Heranca e Interface\02-ByteBank\bin\Debug\02-ByteBank.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 3 - Heranca e Interface\02-ByteBank\bin\Debug\02-ByteBank.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 3 - Heranca e Interface\02-ByteBank\obj\Debug\02-ByteBank.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 3 - Heranca e Interface\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 3 - Heranca e Interface\02-ByteBank\obj\Debug\02-ByteBank.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 3 - Heranca e Interface\02-ByteBank\obj\Debug\02-ByteBank.pdb

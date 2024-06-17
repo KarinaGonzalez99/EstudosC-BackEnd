@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\03_SortedSet\bin\Debug\03_SortedSet.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\03_SortedSet\bin\Debug\03_SortedSet.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\03_SortedSet\bin\Debug\03_SortedSet.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\03_SortedSet\obj\Debug\03_SortedSet.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\03_SortedSet\obj\Debug\03_SortedSet.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\03_SortedSet\obj\Debug\03_SortedSet.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\03_SortedSet\obj\Debug\03_SortedSet.pdb

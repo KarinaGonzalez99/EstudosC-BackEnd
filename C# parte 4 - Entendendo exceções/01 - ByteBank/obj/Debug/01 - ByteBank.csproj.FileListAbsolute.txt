@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 4 - Entendendo exceções\01 - ByteBank\bin\Debug\01 - ByteBank.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 4 - Entendendo exceções\01 - ByteBank\bin\Debug\01 - ByteBank.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 4 - Entendendo exceções\01 - ByteBank\bin\Debug\01 - ByteBank.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 4 - Entendendo exceções\01 - ByteBank\obj\Debug\01 - ByteBank.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 4 - Entendendo exceções\01 - ByteBank\obj\Debug\01 - ByteBank.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 4 - Entendendo exceções\01 - ByteBank\obj\Debug\01 - ByteBank.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 4 - Entendendo exceções\01 - ByteBank\obj\Debug\01 - ByteBank.pdb

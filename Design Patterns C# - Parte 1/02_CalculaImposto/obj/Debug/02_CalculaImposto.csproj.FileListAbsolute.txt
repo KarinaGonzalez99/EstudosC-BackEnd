@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\02_CalculaImposto\obj\Debug\02_CalculaImposto.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\02_CalculaImposto\obj\Debug\02_CalculaImposto.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\02_CalculaImposto\bin\Debug\02_CalculaImposto.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\02_CalculaImposto\bin\Debug\02_CalculaImposto.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\02_CalculaImposto\bin\Debug\02_CalculaImposto.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\02_CalculaImposto\obj\Debug\02_CalculaImposto.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\02_CalculaImposto\obj\Debug\02_CalculaImposto.pdb

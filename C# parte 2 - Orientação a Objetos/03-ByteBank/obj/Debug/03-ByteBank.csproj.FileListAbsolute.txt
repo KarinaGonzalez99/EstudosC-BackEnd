@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 2 - Orientação a Objetos\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 2 - Orientação a Objetos\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 2 - Orientação a Objetos\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 2 - Orientação a Objetos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 2 - Orientação a Objetos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 2 - Orientação a Objetos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 2 - Orientação a Objetos\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.pdb

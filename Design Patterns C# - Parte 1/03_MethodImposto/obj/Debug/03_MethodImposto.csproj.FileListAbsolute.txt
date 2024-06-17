@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\03_MethodImposto\bin\Debug\03_MethodImposto.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\03_MethodImposto\bin\Debug\03_MethodImposto.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\03_MethodImposto\bin\Debug\03_MethodImposto.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\03_MethodImposto\obj\Debug\03_MethodImposto.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\03_MethodImposto\obj\Debug\03_MethodImposto.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\03_MethodImposto\obj\Debug\03_MethodImposto.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\03_MethodImposto\obj\Debug\03_MethodImposto.pdb

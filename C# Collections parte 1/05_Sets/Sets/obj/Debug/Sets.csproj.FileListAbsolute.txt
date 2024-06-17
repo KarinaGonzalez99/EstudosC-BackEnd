@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\05_Sets\Sets\bin\Debug\Sets.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\05_Sets\Sets\bin\Debug\Sets.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\05_Sets\Sets\bin\Debug\Sets.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\05_Sets\Sets\obj\Debug\Sets.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\05_Sets\Sets\obj\Debug\Sets.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\05_Sets\Sets\obj\Debug\Sets.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\05_Sets\Sets\obj\Debug\Sets.pdb

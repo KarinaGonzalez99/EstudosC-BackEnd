@@ -1,9 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 5 - bibl. DLL, Doc e NuGet\02-ByteBank\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 5 - bibl. DLL, Doc e NuGet\02-ByteBank\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 5 - bibl. DLL, Doc e NuGet\02-ByteBank\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 5 - bibl. DLL, Doc e NuGet\02-ByteBank\ByteBank.SistemaInterno\bin\Debug\ByteBank.Modelos.dll
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 5 - bibl. DLL, Doc e NuGet\02-ByteBank\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 5 - bibl. DLL, Doc e NuGet\02-ByteBank\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 5 - bibl. DLL, Doc e NuGet\02-ByteBank\ByteBank.SistemaInterno\obj\Debug\ByteBank.CC14B2B3.Up2Date
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 5 - bibl. DLL, Doc e NuGet\02-ByteBank\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# parte 5 - bibl. DLL, Doc e NuGet\02-ByteBank\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.pdb

@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\06_LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\06_LinkedList\LinkedList\bin\Debug\LinkedList.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\06_LinkedList\LinkedList\bin\Debug\LinkedList.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\06_LinkedList\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\06_LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\06_LinkedList\LinkedList\obj\Debug\LinkedList.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\06_LinkedList\LinkedList\obj\Debug\LinkedList.pdb

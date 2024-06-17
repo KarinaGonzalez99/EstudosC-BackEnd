@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\14-Encadeado\bin\Debug\14-Encadeado.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\14-Encadeado\bin\Debug\14-Encadeado.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\14-Encadeado\bin\Debug\14-Encadeado.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\14-Encadeado\obj\Debug\14-Encadeado.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\14-Encadeado\obj\Debug\14-Encadeado.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\14-Encadeado\obj\Debug\14-Encadeado.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\14-Encadeado\obj\Debug\14-Encadeado.pdb

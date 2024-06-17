@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# 6 - melhorias em Coleções, Propriedades, Exceções e Strings\AtualizacoesC#6\obj\Debug\AtualizacoesC#6.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# 6 - melhorias em Coleções, Propriedades, Exceções e Strings\AtualizacoesC#6\obj\Debug\AtualizacoesC#6.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# 6 - melhorias em Coleções, Propriedades, Exceções e Strings\AtualizacoesC#6\bin\Debug\AtualizacoesC#6.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# 6 - melhorias em Coleções, Propriedades, Exceções e Strings\AtualizacoesC#6\bin\Debug\AtualizacoesC#6.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# 6 - melhorias em Coleções, Propriedades, Exceções e Strings\AtualizacoesC#6\bin\Debug\AtualizacoesC#6.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# 6 - melhorias em Coleções, Propriedades, Exceções e Strings\AtualizacoesC#6\obj\Debug\AtualizacoesC#6.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# 6 - melhorias em Coleções, Propriedades, Exceções e Strings\AtualizacoesC#6\obj\Debug\AtualizacoesC#6.pdb

@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\9-Escopo\bin\Debug\9-Escopo.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\9-Escopo\bin\Debug\9-Escopo.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\9-Escopo\bin\Debug\9-Escopo.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\9-Escopo\obj\Debug\9-Escopo.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\9-Escopo\obj\Debug\9-Escopo.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\9-Escopo\obj\Debug\9-Escopo.pdb

@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_ConsultandoCollections\bin\Debug\06_ConsultandoCollections.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_ConsultandoCollections\bin\Debug\06_ConsultandoCollections.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_ConsultandoCollections\bin\Debug\06_ConsultandoCollections.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_ConsultandoCollections\obj\Debug\06_ConsultandoCollections.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_ConsultandoCollections\obj\Debug\06_ConsultandoCollections.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_ConsultandoCollections\obj\Debug\06_ConsultandoCollections.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\06_ConsultandoCollections\obj\Debug\06_ConsultandoCollections.pdb

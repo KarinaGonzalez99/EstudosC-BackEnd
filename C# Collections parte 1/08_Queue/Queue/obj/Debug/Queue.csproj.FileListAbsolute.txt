@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\08_Queue\Queue\bin\Debug\Queue.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\08_Queue\Queue\bin\Debug\Queue.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\08_Queue\Queue\bin\Debug\Queue.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\08_Queue\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\08_Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\08_Queue\Queue\obj\Debug\Queue.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 1\08_Queue\Queue\obj\Debug\Queue.pdb

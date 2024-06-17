@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\06_ObjetosEBuilder\obj\Debug\06_ObjetosEBuilder.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\06_ObjetosEBuilder\obj\Debug\06_ObjetosEBuilder.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\06_ObjetosEBuilder\bin\Debug\06_ObjetosEBuilder.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\06_ObjetosEBuilder\bin\Debug\06_ObjetosEBuilder.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\06_ObjetosEBuilder\bin\Debug\06_ObjetosEBuilder.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\06_ObjetosEBuilder\obj\Debug\06_ObjetosEBuilder.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\06_ObjetosEBuilder\obj\Debug\06_ObjetosEBuilder.pdb

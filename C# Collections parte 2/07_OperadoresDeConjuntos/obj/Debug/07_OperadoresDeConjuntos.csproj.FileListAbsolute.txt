@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\07_OperadoresDeConjuntos\bin\Debug\07_OperadoresDeConjuntos.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\07_OperadoresDeConjuntos\bin\Debug\07_OperadoresDeConjuntos.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\07_OperadoresDeConjuntos\bin\Debug\07_OperadoresDeConjuntos.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\07_OperadoresDeConjuntos\obj\Debug\07_OperadoresDeConjuntos.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\07_OperadoresDeConjuntos\obj\Debug\07_OperadoresDeConjuntos.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\07_OperadoresDeConjuntos\obj\Debug\07_OperadoresDeConjuntos.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\C# Collections parte 2\07_OperadoresDeConjuntos\obj\Debug\07_OperadoresDeConjuntos.pdb

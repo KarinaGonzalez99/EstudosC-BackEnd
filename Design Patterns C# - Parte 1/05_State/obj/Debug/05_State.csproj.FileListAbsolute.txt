@@ -1,7 +1,0 @@
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\05_State\obj\Debug\05_State.csproj.AssemblyReference.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\05_State\obj\Debug\05_State.csproj.CoreCompileInputs.cache
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\05_State\bin\Debug\05_State.exe.config
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\05_State\bin\Debug\05_State.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\05_State\bin\Debug\05_State.pdb
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\05_State\obj\Debug\05_State.exe
-C:\Users\KarinaGonzalez\source\repos\BackEndJuniorWM\Design Patterns C# - Parte 1\05_State\obj\Debug\05_State.pdb
